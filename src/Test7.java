@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Test7 {
+public class Test7 {
+    void abc() {
+        System.out.println("abc");
+    }
 }
